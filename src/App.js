@@ -8,7 +8,7 @@ import Card from './Card';
       <div className="bbb">
 
 <Card name="Rohit Sharma" age="ff" TsNo="45"/>
-<Card name="Rahul" age="23"TsNo="21"/>
+<Card name="Rahul" age="22"TsNo="21"/>
 <Card name="virat Kholi" age="11"TsNo="18"/>
 <Card name="H Pandiya" age="aa"TsNo="333"/>
 <Card name="Pant" age="kumar"TsNo="05"/>
